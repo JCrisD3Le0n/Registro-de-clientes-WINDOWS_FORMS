@@ -1,0 +1,10 @@
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\bin\Debug\Lab2Asi_DS23003.exe.config
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\bin\Debug\Lab2Asi_DS23003.exe
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\bin\Debug\Lab2Asi_DS23003.pdb
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.csproj.AssemblyReference.cache
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.Form1.resources
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.Properties.Resources.resources
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.csproj.GenerateResource.cache
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.csproj.CoreCompileInputs.cache
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.exe
+D:\Unidad 3\Ejercicios de la guia\Ejercicio3\Estadio Nacional\Lab2Asi_DS23003\obj\Debug\Lab2Asi_DS23003.pdb
